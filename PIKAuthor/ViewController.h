@@ -1,9 +1,9 @@
 //
 //  ViewController.h
-//  PIKAuthor
+//  WNImagePicker
 //
-//  Created by ningwu on 2018/5/16.
-//  Copyright © 2018年 alen. All rights reserved.
+//  Created by wuning on 16/5/10.
+//  Copyright © 2016年 alen. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
